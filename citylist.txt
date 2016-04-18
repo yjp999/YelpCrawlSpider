@@ -1,0 +1,219 @@
+mill-valley-ca-us	Mill Valley
+millbrae-ca-us	Millbrae
+milpitas-ca-us	Milpitas
+monterey-ca-us	Monterey
+mountain-view-ca-us	Mountain View
+napa-ca-us	Napa
+newark-ca-us	Newark
+newport-beach-ca-us	Newport Beach
+oakland	Oakland
+oc	Orange County
+palo-alto	Palo Alto
+pasadena-ca-us	Pasadena
+pleasanton-ca-us	Pleasanton
+redondo-beach-ca-us	Redondo Beach
+redwood-city-ca-us	Redwood City
+sacramento	Sacramento
+san-bruno-ca-us	San Bruno
+san-carlos-ca-us	San Carlos
+san-diego	San Diego
+sf	San Francisco
+san-jose	San Jose
+san-leandro-ca-us	San Leandro
+san-mateo-ca-us	San Mateo
+san-rafael-ca-us	San Rafael
+santa-barbara	Santa Barbara
+santa-clara-ca-us	Santa Clara
+santa-cruz-ca-us	Santa Cruz
+santa-monica-ca-us	Santa Monica
+santa-rosa-ca-us	Santa Rosa
+sausalito-ca-us	Sausalito
+sonoma-ca-us	Sonoma
+south-lake-tahoe-ca-us	South Lake Tahoe
+stockton-ca-us	Stockton
+studio-city-ca-us	Studio City
+sunnyvale-ca-us	Sunnyvale
+torrance-ca-us	Torrance
+union-city-ca-us	Union City
+venice-ca-us	Venice
+walnut-creek-ca-us	Walnut Creek
+west-hollywood-ca-us	West Hollywood
+west-los-angeles-ca-us	West Los Angeles
+westwood-ca-us	Westwood
+yountville-ca-us	Yountville
+boulder-co-us	Boulder
+denver	Denver
+hartford	Hartford
+new-haven-ct-us	New Haven
+dc	Washington, DC
+fort-lauderdale-fl-us	Fort Lauderdale
+gainesville	Gainesville
+miami	Miami
+miami-beach-fl-us	Miami Beach
+orlando-fl-us	Orlando
+tampa-bay	Tampa
+atlanta	Atlanta
+savannah	Savannah
+honolulu	Honolulu
+lahaina-hi-us	Lahaina
+iowa-city	Iowa City
+boise	Boise
+chicago	Chicago
+evanston-il-us	Evanston
+naperville-il-us	Naperville
+schaumburg-il-us	Schaumburg
+skokie-il-us	Skokie
+bloomington-in-us	Bloomington
+indianapolis-in-us	Indianapolis
+louisville	Louisville
+new-orleans	New Orleans
+allston-ma-us	Allston
+boston	Boston
+brighton-ma-us	Brighton
+brookline-ma-us	Brookline
+cambridge-ma-us	Cambridge
+somerville-ma-us	Somerville
+baltimore	Baltimore
+ann-arbor-mi-us	Ann Arbor
+detroit	Detroit
+minneapolis	Minneapolis
+saint-paul-mn-us	Saint Paul
+kansas-city-mo-us	Kansas City
+st-louis	Saint Louis
+charlotte-nc-us	Charlotte
+durham-nc-us	Durham
+raleigh-nc-us	Raleigh
+newark-nj-us	Newark
+princeton-nj-us	Princeton
+albuquerque	Albuquerque
+santa-fe-nm-us	Santa Fe
+las-vegas	Las Vegas
+reno	Reno
+brooklyn	Brooklyn
+long-island-city-ny-us	Long Island City
+nyc	New York
+queens	Flushing
+cincinnati-oh-us	Cincinnati
+cleveland	Cleveland
+columbus-oh-us	Columbus
+portland	Portland
+salem-or-us	Salem
+philadelphia	Philadelphia
+pittsburgh	Pittsburgh
+providence	Providence
+charleston	Charleston
+memphis	Memphis
+nashville	Nashville
+austin	Austin
+dallas	Dallas
+houston	Houston
+san-antonio-tx-us	San Antonio
+salt-lake-city	Salt Lake City
+alexandria-va-us	Alexandria
+arlington-va-us	Arlington
+richmond	Richmond
+burlington	Burlington
+bellevue-wa-us	Bellevue
+redmond-wa-us	Redmond
+seattle	Seattle
+madison	Madison
+milwaukee	Milwaukee
+buenos-aires	Buenos Aires
+brisbane	Brisbane
+melbourne	Melbourne
+perth	Perth
+sydney	Sydney
+wien	Wien
+antwerpen	Antwerpen
+bruxelles	Bruxelles
+rio-de-janeiro	Rio de Janeiro
+s%C3%A3o-paulo	São Paulo
+calgary	Calgary
+edmonton	Edmonton
+halifax	Halifax
+montr%C3%A9al	Montréal
+ottawa	Ottawa
+toronto	Toronto
+vancouver	Vancouver
+santiago	Santiago
+praha	Praha
+k%C3%B8benhavn	København
+helsinki	Helsinki
+lyon	Lyon
+marseille	Marseille
+paris	Paris
+berlin	Berlin
+frankfurt-am-main	Frankfurt am Main
+hamburg	Hamburg
+k%C3%B6ln	Köln
+m%C3%BCnchen	München
+adelaide	Adelaide
+park-la-brea-ca-us	Park La Brea
+hk	香港
+milano	Milano
+roma	Roma
+%E5%A4%A7%E9%98%AA%E5%B8%82	大阪市
+%E6%9D%B1%E4%BA%AC	東京
+kl	Kuala Lumpur
+m%C3%A9xico-df	México, D.F.
+auckland	Auckland
+oslo	Oslo
+manila	Manila
+krak%C3%B3w	Kraków
+warszawa	Warszawa
+lisboa	Lisboa
+dublin	Dublin
+singapore	Singapore
+barcelona	Barcelona
+madrid	Madrid
+stockholm	Stockholm
+z%C3%BCrich	Zürich
+%E5%8F%B0%E5%8C%97%E5%B8%82	台北市
+amsterdam	Amsterdam
+istanbul	İstanbul
+belfast	Belfast
+brighton	Brighton
+bristol	Bristol
+cardiff	Cardiff
+edinburgh	Edinburgh
+glasgow	Glasgow
+leeds	Leeds
+liverpool	Liverpool
+london	London
+manchester	Manchester
+phoenix	Phoenix
+scottsdale-az-us	Scottsdale
+tempe-az-us	Tempe
+tucson-az-us	Tucson
+alameda-ca-us	Alameda
+albany-ca-us	Albany
+alhambra-ca-us	Alhambra
+anaheim-ca-us	Anaheim
+belmont-ca-us	Belmont
+berkeley	Berkeley
+beverly-hills-ca-us	Beverly Hills
+big-sur-ca-us	Big Sur
+la-east	Burbank
+concord-ca-us	Concord
+costa-mesa-ca-us	Costa Mesa
+culver-city-ca-us	Culver City
+cupertino-ca-us	Cupertino
+daly-city-ca-us	Daly City
+davis-ca-us	Davis
+dublin-ca-us	Dublin
+emeryville-ca-us	Emeryville
+foster-city-ca-us	Foster City
+fremont-ca-us	Fremont
+glendale-ca-us	Glendale
+hayward-ca-us	Hayward
+healdsburg-ca-us	Healdsburg
+huntington-beach-ca-us	Huntington Beach
+irvine-ca-us	Irvine
+la-jolla-ca-us	La Jolla
+livermore-ca-us	Livermore
+long-beach-ca-us	Long Beach
+los-altos-ca-us	Los Altos
+la	Los Angeles
+los-gatos-ca-us	Los Gatos
+marina-del-rey-ca-us	Marina del Rey
+menlo-park-ca-us	Menlo Park
